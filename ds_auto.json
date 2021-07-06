@@ -1,5 +1,5 @@
 {
-	"blocked_product_names": [
+	"ali_blocked_product_names": [
 	    "Nail Drill Bit Carbide Milling Cutters Nail Art Tool for Electric Manicure Nail Drill Machine Nails Accessories Remove Gel Tools",
 	    "Pink Dragonair Plush Dragonite Doll Cute Soft Cartoon Anime Dragon Toys for Kid Children Day Gift",
 	    "1pcs 20cm Animal Crossing Celeste Plush Toys Celeste Plush Toys Soft Stuffed Anime Plush Toys Children Kids Gifts",
@@ -27,5 +27,40 @@
 	    "1pcs 55cm Details About San-x Rilakkuma Relax Bear Cute Soft Pillow/Plush/Doll",
 	    "Janpan Anime cat Plush Toy Lucky cat Action Figure Calling Bring Money & Rich Cat Stuffed Soft Doll Mini Plush Toy Kids Toys",
 	    "10PCS 1536mm Metal Alloy Two Color Imitation Gun Charms Pendant for Jewelry Making DIY Handmade Craft P6566"
+    ],
+	"ali_blocked_product_ids": [
+	    "32864936163",
+	    "4000781799970",
+	    "4001120591520",
+	    "4000073900050",
+	    "4001119704545",
+	    "4000517706875",
+	    "4001131713792",
+	    "4001142819027",
+	    "32960977246",
+	    "4000817419097",
+	    "1005002280536969",
+	    "4001224102077",
+	    "32823913961",
+	    "32919520632",
+	    "33004967559",
+	    "32694484973",
+	    "32351254001",
+	    "1005002842283591",
+	    "4000944857808",
+	    "32865178362",
+	    "32961243212",
+	    "4000853404749",
+	    "1005001309246831",
+	    "32672459035",
+	    "4000039783282",
+	    "32955156097",
+	    "1005001637731214",
+	    "1005001972438807",
+	    "1005002266091134",
+	    "32981833560",
+	    "1005002011833009",
+	    "4000184001143",
+	    "1005001584891550"
     ]
 }
